@@ -1,0 +1,82 @@
+commit adc0f7632010c07c54ef823b425d25267883533b
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Jun 25 22:33:23 2023 -0400
+
+    Tune the Baseline Trading Algorithm
+
+commit 8f2b2d559ba08a7c6ead7fe9413bf5c14e872394
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sun Jun 25 22:28:23 2023 -0400
+
+    Update README.md
+    
+    Update Tune the Baseline Trading Algorithm step 1, step 2 and step 3
+
+commit 91212c134159dc404d60dd3b5672fd1b655a0403
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Jun 25 22:14:26 2023 -0400
+
+    Tune the Baseline Trading Algorithm
+
+commit c1541cd30e9c924a75204b95d4fdacb04cbb1c2b
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sun Jun 25 02:13:15 2023 -0400
+
+    Update README.md
+    
+    Report added
+
+commit 1c53e5da09ca9c34c5e8bbd36aa4772f1ae7ef87
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Jun 25 02:11:14 2023 -0400
+
+    Read me file added
+
+commit 74b4d6f5d4769db574d3ebd2bbe92d34aecea1ba
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Jun 25 02:03:05 2023 -0400
+
+    Read me file added
+
+commit 277c37f56837d6e5e3d9e65785f5a2097eace577
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Jun 25 01:33:19 2023 -0400
+
+    Update file path
+
+commit 4fdd6defd8bc63a91cf50a5193b75e2a9e87310b
+Merge: e275293 4de40b8
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Jun 25 01:31:55 2023 -0400
+
+    Merge branch 'main' of https://github.com/Eyasualemu/Algorithmic_Trading_CH14
+
+commit e275293799d7751b57b2ca8373cfe36ba3542e2b
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Jun 25 01:31:38 2023 -0400
+
+    update solution file path
+
+commit 4de40b838bee3a2f9ed85eea60e34942e53eff9e
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sun Jun 25 01:30:56 2023 -0400
+
+    Read me file added
+
+commit 9eeacd286fbb21dc499e2532a72f7ce5657ebb6d
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun Jun 25 01:24:16 2023 -0400
+
+    Solution file added
+
+commit eff36df94a9053bd88a045dda5f4148a18fd02cf
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sat Jun 24 00:28:41 2023 -0400
+
+    Initial code
+
+commit fa7397187fe198b8334bec63ec7089f40a1d0b7a
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sat Jun 24 00:24:29 2023 -0400
+
+    Initial commit
