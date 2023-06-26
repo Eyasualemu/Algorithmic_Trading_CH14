@@ -61,6 +61,4 @@ Step 3 -- Choose the set of parameters Short window = 12 and long window = 70 th
 
 ![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/00e0bd7e-3ed8-41c3-8201-15e95e3fc822)
 
-
-
-4. Create an Evaluation Report
+The new model perform better than the provided baseline model.This new model perform better or than the tuned trading algorithm
