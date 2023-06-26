@@ -32,20 +32,29 @@ Using the starter code file and the provided csv complete the following steps.
 2.	Tune the Baseline Trading Algorithm
 
 Step 1 When tune the training algorithm by adjusting the size of the training dataset to 12 the following result returned.
+![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/1f2586f8-c799-4d3b-83b1-2473a9024b2d)
+
 
 Step 2  When tune the training algorithm by adjusting the size of the training dataset to 12 the following result returned.
 
 The signal value count affected and returned the following 
+![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/f9aaf811-f664-49aa-bf2e-2f74deda9cb9)
 
 
 Strategy Returns to examine performance is not affected
+![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/3fd9ca9a-0cd8-4b7c-9d23-96a503a0c4b3)
 
 Target set value count is affected and returned the following
+![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/1c44aa27-10c3-47f8-9f61-476c1361a233)
 
 Classification report to evaluate the model using the predictions and testing data is affected and returned the following
+![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/8be0262c-0485-4701-acaf-7eba8b94dbff)
 
 
-Cumulative return plot that shows the actual returns vs. the strategy returns is affected and returned the following
+Cumulative return plot that shows the actual returns vs. the strategy returns is affected and returned the following 
+![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/ae1dc049-c22c-4bd9-ba42-86e71f417f95)
+
+Step 3 -- Choose the set of parameters Short window = 12 and long window = 70 that best improved the trading algorithm returns. The PNG image of the cumulative product of the actual returns vs. the strategy return saved as New_figuer.png
 
 3.	Evaluate a New Machine Learning Classifier
 ![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/6428d8ce-926d-4af1-bb3e-e179ddb80d23)
