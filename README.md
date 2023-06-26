@@ -31,6 +31,22 @@ Using the starter code file and the provided csv complete the following steps.
 
 2.	Tune the Baseline Trading Algorithm
 
+Step 1 When tune the training algorithm by adjusting the size of the training dataset to 12 the following result returned.
+
+Step 2  When tune the training algorithm by adjusting the size of the training dataset to 12 the following result returned.
+
+The signal value count affected and returned the following 
+
+
+Strategy Returns to examine performance is not affected
+
+Target set value count is affected and returned the following
+
+Classification report to evaluate the model using the predictions and testing data is affected and returned the following
+
+
+Cumulative return plot that shows the actual returns vs. the strategy returns is affected and returned the following
+
 3.	Evaluate a New Machine Learning Classifier
 ![image](https://github.com/Eyasualemu/Algorithmic_Trading_CH14/assets/44585226/6428d8ce-926d-4af1-bb3e-e179ddb80d23)
 
